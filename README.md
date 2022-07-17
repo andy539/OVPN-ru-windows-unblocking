@@ -1,4 +1,4 @@
-Инструкция по обходу блокировок в российскии для Windows (OVPN)
+Инструкция по обходу блокировок в россии для Windows (OVPN)
 
 Скачайте файл конфигурации: https://cloud.srv00.com/s/osTWotB2Rm3mq8F/download/client2.ovpn
 

@@ -1,6 +1,6 @@
 Инструкция по обходу блокировок в российскии для Windows (OVPN)
 
-Скачайте файл конфигурации: https://cdn.srv00.com/manual/ovpn2.ovpn
+Скачайте файл конфигурации: https://cloud.srv00.com/s/osTWotB2Rm3mq8F/download/client2.ovpn
 
 Устанавливаем OpenVPN Connect: https://openvpn.net/vpn-client/
 
@@ -10,8 +10,8 @@
 
 Если вы видите такое окно, то вы всё сделали правильно.
 
-![image](https://cdn.srv00.com/img/ovpn_645.png)
+![image](https://cloud.srv00.com/apps/files_sharing/publicpreview/wxmxKmWiJeGXATt?x=1908&y=629&a=true&file=img1.PNG&scalingup=0)
 
 Чтобы VPN не выключался после перезагрузки компьютера, в настройках в пункте "Launch Options" выберите "Restore connection".
 
-![image](https://cdn.srv00.com/img/ovpn_685.png)
+![image](https://cloud.srv00.com/apps/files_sharing/publicpreview/AN9exKizHK7s3Yd?x=1908&y=629&a=true&file=img2.PNG&scalingup=0)
